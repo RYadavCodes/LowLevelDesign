@@ -1,4 +1,4 @@
-package DocumentManagementSystem;
+package DocumentManagementSystem.models.command;
 
 public interface Command {
     String getName();
